@@ -1,2 +1,4 @@
-# slug_presentation_ref_202506
-Example code/proof of concept of the LabVIEW VIs demonstrated during Seattle LabVIEW User Group 2025-06-26
+=== Last Update: 2025-06-30 ===
+
+These are the LabVIEW codes used during SLUG (Seattle LabVIEW User Group 2025-06-26) used by Michael Panganiban during the presentation.
+These VIs are mainly for GUI design.
